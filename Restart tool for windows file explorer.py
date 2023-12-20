@@ -13,10 +13,10 @@ def main():
     restart_explorer()
 
     # 顯示選項
-    print("重新啟動 Windows 檔案總管成功。")
-    print("請選擇：")
-    print("1. 再次執行")
-    print("2. 退出")
+    print("重新啟動 Windows 檔案總管成功 Restarting Windows File Explorer successfully。")
+    print("請選擇 Please select：")
+    print("1. 再次執行 Execute again")
+    print("2. 退出 Exit")
 
     # 讀取使用者輸入
     choice = input()
